@@ -8,7 +8,7 @@
 #		Simple backups of Pythonista folders allowing transfers to other devices.
 #
 # 	AUTHOR:
-#   	ConnerWill
+#   		ConnerWill
 # ======================================================
  __________________________________________
 /                                          \
