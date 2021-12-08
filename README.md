@@ -18,9 +18,8 @@ pythonista-backup.py was writted for the iOS app, Pythonista. Install [Pythonist
 ### Installation
 
 1. Download pythonista-backup.py and pythonista-backup.cfg from this repository.
-
-
-
+2. Edit configuration file to your preference.
+3. Run pythonista-backup.py to start the backup.
 
 Alternatively, install [StaSH](https://github.com/ywangd/stash) and git clone this repository
 
