@@ -1,7 +1,7 @@
 '''
 # ======================================================
 # 	TITLE:
-#		pythonista-backup.py
+#		iBackup-Pythonista.py
 #
 #	DESCRIPTION:
 #		Python script for backing up Pythonista scripts on iOS.
@@ -12,7 +12,7 @@
 # ======================================================
  __________________________________________
 /                                          \
-|         pythonista-backup.py             |
+|           iBackup-Pythonista             |
 |                                          |
 | Easily backup Pythonista scripts on iOS. |
 |                                          |
