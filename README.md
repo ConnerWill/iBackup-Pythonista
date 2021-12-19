@@ -7,7 +7,7 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 
 ## Features
 * Easily create backups of all Pythonista scripts compressed to a zip archive.
-* Simple configurioatn of backups using a configuration file.
+* Simple configuration of backups using a configuration file.
 * Share backup to prefered location.
 * Exclude/include files and folders from being backed up.
 
