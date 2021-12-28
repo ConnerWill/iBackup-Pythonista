@@ -88,20 +88,20 @@ def main():
 	print("Starting Backup ...")
 	excludelist=EXCLUDES
 	open_in_quicklook = OpenInQuickLook
-	excludelist.append(zip_dir)
+	excludelist.append(ZIP_DIR)
 	source_dir=os.path.expanduser(BACKUPDIR)
-	zip_dir_full=os.path.join(source_dir,ZIP_DIR)
+	ZIP_DIR_FULL=os.path.join(source_dir,ZIP_DIR)
 	fname=ARCHIVEFORMATTEDNAME
-	zip_file=os.path.join(ZIP_DIR_full,fname)
+	zip_file=os.path.join(ZIP_DIR_FULL,fname)
 
 	try:
-		os.stat(ZIP_DIR_full)
+		os.stat(ZIP_DIR_FULL)
 	except:
-		os.mkdir(ZIP_DIR_full)
-	if not os.path.isdir(ZIP_DIR_full):
+		os.mkdir(ZIP_DIR_FULL)
+	if not os.path.isdir(ZIP_DIR_FULL):
 
 		console.set_color(1.0, 0.0, 0.0)
-		print("could not create zip dest dir {zdf}".format(zdf=ZIP_DIR_full))
+		print("could not create zip dest dir {zdf}".format(zdf=ZIP_DIR_FULL))
 		sys.exit()
 
 	make_zipfile(zip_file,source_dir,excludelist)
@@ -140,6 +140,5 @@ def make_zipfile(output_filename, source_dir, excludelist):
 
 if __name__ == "__main__":
 	main()
-
 
 
