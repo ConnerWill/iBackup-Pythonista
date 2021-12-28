@@ -1,8 +1,8 @@
-# iBackup-Pythonista.py - Create Backups of Python Scripts in Pythonista iOS App
+# iBackup-Pythonista.py
+
+#### Create Backups of Python Scripts in Pythonista iOS App
 
 Python script for backing up Pythonista scripts on iOS. Simple backups of Pythonista folders allowing easy transfer to other devices.
-
-![demo](iBackup-Pythonista-demo.gif)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/iBackup-Pythonista)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/iBackup-Pythonista)
@@ -10,7 +10,9 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 ![GitHub](https://img.shields.io/github/license/ConnerWill/iBackup-Pythonista)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/iBackup-Pythonista?style=social)
 
-[iBackup-Pythonista](https://github.com/ConnerWill/iBackup-Pythonista)  was writted for the iOS app, Pythonista. Install [Pythonista](https://omz-software.com/pythonista) from the [iOS app store](https://apps.apple.com/us/app/pythonista-3/id1085978097).
+![demo](iBackup-Pythonista-demo.gif)
+
+---
 
 ## Features
 * Easily create backups of all Pythonista scripts compressed to a zip archive.
@@ -31,6 +33,8 @@ Alternatively, install [StaSH](https://github.com/ywangd/stash) and git clone th
 $   git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 ```
 ---
+
+[iBackup-Pythonista](https://github.com/ConnerWill/iBackup-Pythonista)  was writted for the iOS app, Pythonista. Install [Pythonista](https://omz-software.com/pythonista) from the [iOS app store](https://apps.apple.com/us/app/pythonista-3/id1085978097).
 
 **This script is still a work in progress. Use this script at your own risk!**
 
