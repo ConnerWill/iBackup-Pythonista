@@ -122,11 +122,11 @@ Install [Pythonista](https://omz-software.com/pythonista) from the [iOS app stor
 
 ** This script is still a work in progress. Use this script at your own risk!  **
 
-* *Tested on iPhone 7/8*  
+* *Tested on iPhone 7/8 *
 
-* *iOS 15.0.1*  
+* *iOS 15.0.1 *
 
-* *Pythonista Version 3.3*   
+* *Pythonista Version 3.3 *
 
 
 ---
