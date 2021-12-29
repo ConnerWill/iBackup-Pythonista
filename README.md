@@ -127,3 +127,6 @@ Install [Pythonista](https://omz-software.com/pythonista) from the [iOS app stor
 * *iOS 15.0.1*  
 
 * *Pythonista Version 3.3*   
+
+
+---
