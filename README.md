@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # iBackup-Pythonista.py
 
 ---
@@ -15,6 +17,8 @@
 ---
 
 ![demo](./media/iBackup-Pythonista-demo.gif)
+
+</div>
 
 ---
 
