@@ -18,7 +18,7 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 
 ---
 
-## Features
+# Features
 * Easily create backups of all Pythonista scripts compressed to a zip archive.
 * Simple configuration of backups using a configuration file.
 * Share backup to prefered location.
@@ -29,18 +29,18 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 # Table of Contents
 
 * [iBackup-Pythonista.py](#ibackup-pythonistapy)
-   * [Features](#features)
+* [Features](#features)
 * [Table of Contents](#table-of-contents)
-   * [How To Use](#how-to-use)
-      * [Installation](#installation)
+* [How To Use](#how-to-use)
+   * [Installation](#installation)
    * [Configuration](#configuration)
       * [Configuration Variables](#configuration-variables)
       * [Configuration File](#configuration-file)
-   * [Other](#other)
+* [Other](#other)
 
-## How To Use
+# How To Use
 
-### Installation
+## Installation
 
 1. Download or clone **[iBackup-Pythonista](https://github.com/ConnerWill/iBackup-Pythonista)**.
 2. Edit the configuration file **[iBackup-Pythonista.cfg](https://github.com/ConnerWill/iBackup-Pythonista/iBackup-Pythonista.cfg)** to your preference.
@@ -111,7 +111,7 @@ TextFont = Anonymous Pro
 
 ---
 
-## Other
+# Other
 
 [iBackup-Pythonista](https://github.com/ConnerWill/iBackup-Pythonista)  was writted for the iOS app, Pythonista. Install [Pythonista](https://omz-software.com/pythonista) from the [iOS app store](https://apps.apple.com/us/app/pythonista-3/id1085978097).
 
