@@ -25,11 +25,13 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 =================
 
 * [iBackup-Pythonista.py](#ibackup-pythonistapy)
-* [Features](#features)
-* [How To Use](#how-to-use)
-    * [Installation](#installation)
-	* [Configuration](#configuration)
-	* [Other](#other)
+   * [Features](#features)
+* [Table of Contents](#table-of-contents)
+   * [How To Use](#how-to-use)
+      * [Installation](#installation)
+      * [Configuration Variables](#configuration-variables)
+      * [Configuration](#configuration)
+   * [Other](#other)
 
 ## How To Use
 
