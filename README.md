@@ -43,7 +43,7 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 
 *An even easier method of installing this script is to install [StaSH](https://github.com/ywangd/stash). Then, git clone this repository*
 
-```bash
+```Shell
 git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 ```
 
