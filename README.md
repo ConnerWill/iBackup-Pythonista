@@ -10,7 +10,7 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 ![GitHub](https://img.shields.io/github/license/ConnerWill/iBackup-Pythonista)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/iBackup-Pythonista?style=social)
 
-![demo](./iBackup-Pythonista-demo.gif)
+![demo](./media/iBackup-Pythonista-demo.gif)
 
 ---
 
