@@ -20,6 +20,7 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 * Share backup to prefered location.
 * Exclude/include files and folders from being backed up.
 
+---
 
 # Table of Contents
 =================
@@ -29,9 +30,12 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 * [Table of Contents](#table-of-contents)
    * [How To Use](#how-to-use)
       * [Installation](#installation)
+   * [Configuration](#configuration)
       * [Configuration Variables](#configuration-variables)
-      * [Configuration](#configuration)
+      * [Configuration File](#configuration-file)
    * [Other](#other)
+
+---
 
 ## How To Use
 
@@ -46,6 +50,7 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 ```Shell
 git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 ```
+## Configuration
 
 ### Configuration Variables
 
@@ -65,8 +70,7 @@ git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 **OpenInQuickLook**
 : After backup has finished, open *'quicklook'* ***[bool]***
 
-
-### Configuration
+### Configuration File
 
 *Configuration file contents*
 
