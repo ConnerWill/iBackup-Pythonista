@@ -53,7 +53,7 @@ BackupDir
 : Root folder from where to start the backup. All subfolders will be backed up **[string]**
 
 ExcludeList
-: Comma seperated list of folders to not backup **[string]**
+: List of folders to not backup **[string]**
 *(eg. Backups, tmp)*
 
 ArchiveDir
