@@ -39,8 +39,6 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
       * [Configuration File](#configuration-file)
    * [Other](#other)
 
----
-
 ## How To Use
 
 ### Installation
