@@ -49,15 +49,20 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 
 ### Configuration Variables
 
->> BackupDir			:	Root folder from where to start the backup. All subfolders will be backed up [string]
->
->> ExcludeList			:	Comma seperated list of folders to not backup (eg. Backups, tmp) [string]
->
->> ArchiveDir			:	Location to save the backup [string]
->
->> ArchiveName			:	Name of the backup [string]
->
->> OpenInQuickLook		:	After backup has finished, open 'quicklook' [bool]
+BackupDir
+: Root folder from where to start the backup. All subfolders will be backed up [string]
+
+ExcludeList
+: Comma seperated list of folders to not backup (eg. Backups, tmp) [string]
+
+ArchiveDir
+: Location to save the backup [string]
+
+ArchiveName
+: Name of the backup [string]
+
+OpenInQuickLook
+: After backup has finished, open 'quicklook' [bool]
 
 
 ### Configuration
