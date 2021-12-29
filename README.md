@@ -63,7 +63,7 @@ git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 : Name of the backup ***[string]***
 
 **OpenInQuickLook**
-: After backup has finished, open *'quicklook'* **[bool]**
+: After backup has finished, open *'quicklook'* ***[bool]***
 
 
 ### Configuration
