@@ -4,7 +4,7 @@
 
 **Create Backups of Python Scripts in Pythonista iOS App**
 
-Python script for backing up Pythonista scripts on iOS. Simple backups of Pythonista folders allowing easy transfer to other devices.
+> Python script for backing up Pythonista scripts on iOS. Simple backups of Pythonista folders allowing easy transfer to other devices.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/iBackup-Pythonista)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/iBackup-Pythonista)
@@ -19,10 +19,13 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 ---
 
 # Features
-* Easily create backups of all Pythonista scripts compressed to a zip archive.
-* Simple configuration of backups using a configuration file.
-* Share backup to prefered location.
-* Exclude/include files and folders from being backed up.
+[✅] Easily create backups of all Pythonista scripts compressed to a zip archive.
+
+[✅] Simple configuration of backups using a configuration file.
+
+[✅] Share backup to prefered location.
+
+[✅] Exclude/include files and folders from being backed up.
 
 ---
 
@@ -42,7 +45,7 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 
 ## Installation
 
-1. Download or clone **[iBackup-Pythonista](https://github.com/ConnerWill/iBackup-Pythonista)**.
+1. Download or clone **[iBackup-Pythonista  ](https://github.com/ConnerWill/iBackup-Pythonista)**.
 2. Edit the configuration file **[iBackup-Pythonista.cfg](https://github.com/ConnerWill/iBackup-Pythonista/iBackup-Pythonista.cfg)** to your preference.
 3. Run **[iBackup-Pythonista.py](https://github.com/ConnerWill/iBackup-Pythonista/iBackup-Pythonista.py)** to start the backup.
 
@@ -51,9 +54,9 @@ Python script for backing up Pythonista scripts on iOS. Simple backups of Python
 ```Shell
 git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 ```
-## Configuration
+## Configuration 
 
-### Configuration Variables
+### Configuration Variables 
 
 **BackupDir**
 : Root folder from where to start the backup. All subfolders will be backed up ***[string]***
@@ -71,7 +74,7 @@ git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 **OpenInQuickLook**
 : After backup has finished, open *'quicklook'* ***[bool]***
 
-### Configuration File
+### Configuration File 
 
 *Configuration file contents*
 
@@ -113,12 +116,15 @@ TextFont = Anonymous Pro
 
 # Other
 
-[iBackup-Pythonista](https://github.com/ConnerWill/iBackup-Pythonista)  was writted for the iOS app, Pythonista. Install [Pythonista](https://omz-software.com/pythonista) from the [iOS app store](https://apps.apple.com/us/app/pythonista-3/id1085978097).
+[iBackup-Pythonista ](https://github.com/ConnerWill/iBackup-Pythonista)  was writted for the iOS app, *Pythonista*.
 
-**This script is still a work in progress. Use this script at your own risk!**
+Install [Pythonista](https://omz-software.com/pythonista) from the [iOS app store](https://apps.apple.com/us/app/pythonista-3/id1085978097).
 
-*Tested on iPhone 7/8*
 
-*iOS 15.0.1*
+**  This script is still a work in progress. Use this script at your own risk!**
 
-*Pythonista Version 3.3*
+  *Tested on iPhone 7/8 *
+
+  *iOS 15.0.1*
+
+  *Pythonista Version 3.3*
