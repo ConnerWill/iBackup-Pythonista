@@ -49,20 +49,20 @@ git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 
 ### Configuration Variables
 
-BackupDir
+**BackupDir**
 : Root folder from where to start the backup. All subfolders will be backed up **[string]**
 
-ExcludeList
+**ExcludeList**
 : List of folders to not backup **[string]**
 *(eg. Backups, tmp)*
 
-ArchiveDir
+**ArchiveDir**
 : Location to save the backup **[string]**
 
-ArchiveName
+**ArchiveName**
 : Name of the backup **[string]**
 
-OpenInQuickLook
+**OpenInQuickLook**
 : After backup has finished, open *'quicklook'* **[bool]**
 
 
