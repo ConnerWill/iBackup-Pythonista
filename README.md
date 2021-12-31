@@ -1,26 +1,22 @@
-<div style="text-align: center;">
+<div align="center">
+
+<img width="400" height="400" src="/media/iBackup-Pythonista-demo.gif">
 
 # iBackup-Pythonista.py
 
----
-
-**Create Backups of Python Scripts in Pythonista iOS App**
-
+### **Create Backups of Python Scripts in Pythonista iOS App**
 > Python script for backing up Pythonista scripts on iOS. Simple backups of Pythonista folders allowing easy transfer to other devices.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/iBackup-Pythonista)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/iBackup-Pythonista)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/iBackup-Pythonista)
+[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/iBackup-Pythonista)
 ![GitHub](https://img.shields.io/github/license/ConnerWill/iBackup-Pythonista)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/iBackup-Pythonista?style=social)
 
 ---
-
-![demo](./media/iBackup-Pythonista-demo.gif)
-
 </div>
 
----
 
 # Features
 [✔] Easily create backups of all Pythonista scripts compressed to a zip archive.
@@ -31,11 +27,16 @@
 
 [✔] Exclude/include files and folders from being backed up.
 
+[___] Autonomous transfer of backups.
+
 ---
 
 # Table of Contents
 
-* [iBackup-Pythonista.py](#ibackup-pythonistapy)
+<details>
+  <summary>Click to expand!</summary>
+
+  * [iBackup-Pythonista.py](#ibackup-pythonistapy)
 * [Features](#features)
 * [Table of Contents](#table-of-contents)
 * [How To Use](#how-to-use)
@@ -44,6 +45,8 @@
       * [Configuration Variables](#configuration-variables)
       * [Configuration File](#configuration-file)
 * [Other](#other)
+
+</details>
 
 # How To Use
 
@@ -79,7 +82,8 @@ git clone https://github.com/ConnerWill/iBackup-Pythonista.git
 
 ### Configuration File
 
-*Configuration file contents*
+<details>
+  <summary>Click to expand configuration file contents</summary>
 
 ```INI
 # Folder to backup
@@ -114,6 +118,9 @@ ProgressColor = 0.7, 0.7, 0.0
 [Fonts]
 TextFont = Anonymous Pro
 ```
+
+</details>
+
 
 ---
 
